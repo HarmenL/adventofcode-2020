@@ -27,6 +27,15 @@ for number in numbers:
 
 
 print("multiplier: {}".format(multiplier))
+i = 0
+realmultiplier = []
+for value in multiplier:
+    if(value != 0 and value !=1):
+        
+
+    i += 1
+
+
 
 total = 1
 for value in multiplier:
